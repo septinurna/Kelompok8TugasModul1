@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\bin\Debug\netstandard2.0\Kelompok8.deps.json
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\bin\Debug\netstandard2.0\Kelompok8.dll
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\bin\Debug\netstandard2.0\Kelompok8.pdb
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.App.xaml.g.cs
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.LoginPage.xaml.g.cs
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.MainPage.xaml.g.cs
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.SignUpPage.xaml.g.cs
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.AssemblyInfo.cs
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.dll
+C:\Users\hp\source\repos\Kelompok8\Kelompok8\Kelompok8\obj\Debug\netstandard2.0\Kelompok8.pdb
